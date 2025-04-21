@@ -112,9 +112,8 @@ npm start
 
 ## 📷 Screenshot
 
-Refer to the image below for a visual preview of the frontend interface powered by this API:
+![image](https://github.com/user-attachments/assets/1c6fb070-fa24-4c29-9fd5-36ec822f5fcf)
 
-[Screenshot placeholder]
 
 ## 📽️ Demo
 
